@@ -1,2 +1,2 @@
 # Ustore
-online store on vanilla JS
+An online store on vanilla JS
